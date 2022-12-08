@@ -1,0 +1,14 @@
+body{
+    background-color: tan;
+}
+h2{
+    text-align: center;
+    color: red;
+    text-size-adjust: 200px;
+}
+.container{
+    padding-left: 100px;
+    padding-right: 10px;
+    width: 200px;
+    height: 90%;
+}
